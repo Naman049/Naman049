@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! I'm [Naman Shrimali] 👋
 
-<!--
-**Naman049/Naman049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Data Enthusiast | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+🔍 I love digging into data and uncovering insights that drive smart decisions. My journey is all about mastering data tools and techniques to tell compelling stories through numbers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Skills & Tools:
+- **Languages:** Python 🐍, R 📊, SQL 💾
+- **Visualization:** Power BI 📊, Matplotlib 🎨, Seaborn 🌈
+- **Databases:** MySQL 🗄️,IBM DB2
+- **Machine Learning:** Scikit-learn 🤖, Pandas 🐼, NumPy 🔢
+- **Others:** Excel 📑, Git 🌐, Jupyter Notebooks 📓
+
+### 🚀 Currently Learning:
+Exploring machine learning and big data to sharpen my analytical edge.
+
+### 🌐 Connect with Me:
+- [LinkedIn](www.linkedin.com/in/naman-shrimali) 💼
+
+### 📩 Get in Touch:
+Drop me a line at [shrimalinaman21@gmail.com] – I'd love to chat about data, collaboration, or anything cool!
